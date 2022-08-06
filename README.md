@@ -10,7 +10,7 @@ I'm working toward my bachelor's in computer science at the FAST National Univer
 * 🖥️  See my portfolio at [My Portfolio](http://github.com/hacker1649)
 * ✉️  You can contact me at [muhammad1649programmer@gmail.com](mailto:muhammad1649programmer@gmail.com )
 * 🧠  I'm learning that How can I become a more experienced /expert Flutter Developer.
-* 🤝  I'm open to collaborating on Software Development
+* 🤝  I'm open to collaborating on Software Development Projects
 
 <a href="https://www.twitter.com/warzan_222555" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/warzan_222555?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
