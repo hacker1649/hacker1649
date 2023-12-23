@@ -35,7 +35,7 @@ Talking about my hobbies, I love playing cricket 🏏, watching YouTube 📺 vid
 <p align="left">
 <a href="https://twitter.com/warzan_222555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="warzan_222555" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/viki25070z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viki25070z" height="30" width="40" /></a>
-<a href="https://www.github.com/hacker1649" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-dark.svg" alt="hacker1649" height="30" width="40" /></a>
+<a href="https://www.github.com/hacker1649" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
 <a href="https://fb.com/muhammad.warzan.92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad.warzan.92" height="30" width="40" /></a>
 <a href="https://instagram.com/sacrastic_viki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sacrastic_viki" height="30" width="40" /></a>
 </p>
