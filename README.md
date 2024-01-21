@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Warzan</h1>
-<h3 align="center">Mobile App Development (Android+iOS) | Frontend Web Development | FAST'24</h3>
+<h3 align="center">Software Development Enthusiast | Mobile App Development (Android+iOS) | Frontend Web Development | FAST'24</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hacker1649&label=Profile%20views&color=0e75b6&style=flat" alt="hacker1649" /> </p>
 
@@ -21,15 +21,15 @@ Talking about my hobbies, I love playing cricket 🏏, watching YouTube 📺 vid
 
 - 👯 I’m looking to collaborate on **different types of Software Development Projects associated with App/Web Development.**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](http://github.com/hacker1649)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://muhammadwarzan.vercel.app/).
 
-- 💬 Ask me about **C, C++, Python, SQL, MySQL | Object Oriented Programming and Database**
+- 💬 Ask me about **C, C++, Python, SQL, MySQL | Object Oriented Programming and Database**.
 
-- 📫 You can contact me through [Email](mailto:muhammad1649programmer@gmail.com )
+- 📫 You can contact me through [Email](mailto:muhammad1649programmer@gmail.com ).
 
-- 📄 Want to know about my experiences visit [Vicky's Resume](https://drive.google.com/file/d/1yYvgDs2FymKA9f3bk2FMvcFkA23oAO_V/view)
+- 📄 Want to know about my experiences visit [Resume](https://drive.google.com/file/d/1P7UQcnFH195O6Q1lQYRR4vkEhoPb0UT8/view), [Online Resume](https://profilopeak.vercel.app/).
 
-- ⚡ Fun fact **I can recite the entire alphabet backward in under 10 seconds – my party trick that never fails to impress!**
+- ⚡ Fun fact **I can recite the entire alphabet backward in under 10 seconds – my party trick that never fails to impress!**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
