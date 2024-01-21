@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Warzan</h1>
-<h3 align="center">Software Development Enthusiast | Mobile App Development (Android+iOS) | Frontend Web Development | FAST'24</h3>
+<h2 align="center">Software Development Enthusiast</h2>
+<h3 align="center">Mobile Application Development (Android + iOS) | Frontend Web Development | FAST'24</h3>
+
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hacker1649&label=Profile%20views&color=0e75b6&style=flat" alt="hacker1649" /> </p>
 
