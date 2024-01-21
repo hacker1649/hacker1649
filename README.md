@@ -9,9 +9,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hacker1649" alt="hacker1649" /></a> </p>
 
 <h3 align="left">Biography:</h3>
-I am currently pursuing my Bachelor's Degree 🎓 in Computer Science from the National University of Computer and Emerging Sciences, Karachi Campus, with a strong desire to advance my abilities in the information technology sector so that I may compete in the expanding market.
 
-With a strong academic background and a curious mindset, I thrive on exploring various fields (i.e., app development, web development) and acquiring new knowledge. I am eager to contribute my skills and enthusiasm to make a positive impact on any organization or project I am involved in.
+I am currently enrolled in the National University of Computer and Emerging Sciences, Karachi Campus, pursuing my Bachelor's Degree in Computer Science. I am keen on enhancing my skills in the information technology sector to stay competitive in the growing market.
+
+With a solid academic foundation and a curious mindset, I enjoy exploring various domains such as app and web development, constantly seeking to acquire new knowledge. I am enthusiastic about contributing my skills and passion to positively impact any organization or project I engage with.
 
 Talking about my hobbies, I love playing cricket 🏏, watching YouTube 📺 videos, listening to music 🎶, podcasts and travelling✈️.
 
