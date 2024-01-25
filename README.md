@@ -20,7 +20,7 @@ Talking about my hobbies, I love playing cricket 🏏, watching YouTube 📺 vid
 
 - 🔭 I’m currently working on **Mobile App Developemt using Flutter and React Native.**
 
-- 🌱 I’m currently learning **MERN Stack (ReactJS, NodeJS) and Firebase**
+- 🌱 I’m currently learning **MERN Stack (ReactJS/NextJS, NodeJS) and Firebase**
 
 - 👯 I’m looking to collaborate on **different types of Software Development Projects associated with App/Web Development.**
 
