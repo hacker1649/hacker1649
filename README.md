@@ -34,11 +34,12 @@ Talking about my hobbies, I love playing cricket 🏏, watching YouTube 📺 vid
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/viki25070z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viki25070z" height="30" width="40" /></a>
-<a href="https://github.com/hacker1649" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="hacker1649" height="30" width="40" /></a>
-<a href="https://twitter.com/warzan_222555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="warzan_222555" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad.warzan.92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad.warzan.92" height="30" width="40" /></a>
-<a href="https://instagram.com/sacrastic_viki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sacrastic_viki" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/viki25070z"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/hacker1649"><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://twitter.com/warzan_222555"><img alt="Twitter" src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white"/></a>
+<a href="mailto:muhammad1649programmer@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/muhammad.warzan.92"><img alt="Facebook" src="https://img.shields.io/badge/facebook%20-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/sacrastic_viki"><img alt="Instagram" src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2><p align="left">
