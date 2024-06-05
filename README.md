@@ -32,7 +32,7 @@ Talking about my hobbies, I love playing cricket 🏏, watching YouTube 📺 vid
 
 - ⚡ Fun fact **I can recite the entire alphabet in under 10 seconds – my party trick that never fails to impress!**.
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Let's Learn, Grow and Connect:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/viki25070z"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/hacker1649"><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
