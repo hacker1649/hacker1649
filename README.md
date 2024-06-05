@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hacker1649&label=Profile%20views&color=0e75b6&style=flat" alt="hacker1649" /> </p>
 
+<p align="center"> <img src="https://github.com/hacker1649/hacker1649/assets/88313681/b5e06a95-8249-49ff-a616-51fa128d0f5a" /> </p>
+
 <h2 align="left">Biography:</h2>
 
 I am currently enrolled in the National University of Computer and Emerging Sciences, Karachi Campus, pursuing my Bachelor's Degree in Computer Science. I am keen on enhancing my skills in the information technology sector to stay competitive in the growing market.
