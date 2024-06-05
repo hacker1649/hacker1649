@@ -30,9 +30,9 @@ Talking about my hobbies, I love playing cricket 🏏, watching YouTube 📺 vid
 
 - 📫 You can contact me through [Email](mailto:muhammad1649programmer@gmail.com ).
 
-- 📄 Want to know about my experiences visit [Resume](https://drive.google.com/file/d/1P7UQcnFH195O6Q1lQYRR4vkEhoPb0UT8/view), [Online Resume](https://profilopeak.vercel.app/).
+- 📄 Want to know about my experiences visit [Resume](https://drive.google.com/file/d/15dWYT2inftppgmQdgZecvN0Dv98z5vTI/view), [Online Resume](https://profilopeak.vercel.app/).
 
-- ⚡ Fun fact **I can recite the entire alphabet backward in under 10 seconds – my party trick that never fails to impress!**.
+- ⚡ Fun fact **I can recite the entire alphabet in under 10 seconds – my party trick that never fails to impress!**.
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -40,6 +40,7 @@ Talking about my hobbies, I love playing cricket 🏏, watching YouTube 📺 vid
 <a href="https://linkedin.com/in/viki25070z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viki25070z" height="30" width="40" /></a>
 <a href="https://fb.com/muhammad.warzan.92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad.warzan.92" height="30" width="40" /></a>
 <a href="https://instagram.com/sacrastic_viki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sacrastic_viki" height="30" width="40" /></a>
+<a href="https://github.com/hacker1649" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="hacker1649" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
@@ -49,9 +50,15 @@ Talking about my hobbies, I love playing cricket 🏏, watching YouTube 📺 vid
 
 <h2 align="left">Github Stats:</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=hacker1649&theme=radical)
+<div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=hacker1649&theme=radical)
+  ![](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=hacker1649&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=false)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hacker1649&langs_count=10&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=hacker1649&show_icons=true&locale=en&theme=radical)
+</div>
 
+<div align="center">
+
+  ![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
