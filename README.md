@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Warzan</h1>
-<h1 align="center">Software Development Enthusiast</h1>
-<h2 align="center">Mobile App Development (Android + iOS) | Frontend Web Development | FAST'24</h2>
+<h2 align="center">👋 Hi there, I'm Muhammad Warzan — Passionate Software Engineer 💻</h2>
 
 <br>
 
@@ -10,19 +8,19 @@
 
 <h2 align="left">Biography:</h2>
 
-I am currently enrolled in the National University of Computer and Emerging Sciences, Karachi Campus, pursuing my Bachelor's Degree in Computer Science. I am keen on enhancing my skills in the information technology sector to stay competitive in the growing market.
+Passionate Software Engineer with a knack for solving complex problems and building scalable solutions. Experienced in full-stack and mobile-app development, always eager to learn new technologies to drive innovation.
 
-With a solid academic foundation and a curious mindset, I enjoy exploring various domains such as app and web development, constantly seeking to acquire new knowledge. I am enthusiastic about contributing my skills and passion to positively impact any organization or project I engage with.
+I hold a Bachelor’s degree in Computer Science from the **National University of Computer and Emerging Sciences (FAST-NUCES)**, Karachi Campus.
 
 Talking about my hobbies, I love playing cricket 🏏, watching YouTube 📺 videos, listening to music 🎶, podcasts and travelling✈️.
 
 - 🌍 I'm located in **Pakistan.**
 
-- 🔭 I’m currently working on **Mobile App Developemt using Flutter and React Native.**
+- 💻 I’m currently working on **full-stack and mobile app projects using React.js, Node.js, Flutter, and Firebase, including my own apps like VideoCatchr and a Contact Management App**.
 
-- 🌱 I’m currently learning **MERN Stack (ReactJS/NextJS, NodeJS) and Firebase**
+- 🌱 I’m currently learning **advanced concepts in software development, with a focus on testing (Selenium, JUnit, Postman), state management (Context API, Redux, Provider), and secure backend development**.
 
-- 👯 I’m looking to collaborate on **different types of Software Development Projects associated with App/Web Development.**
+- 🤝 I’m looking to collaborate on **innovative web and mobile applications, especially those involving personal finance tools, resume analyzers, or anything in the ed-tech or productivity space**.
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://muhammadwarzan.vercel.app/).
 
@@ -30,9 +28,9 @@ Talking about my hobbies, I love playing cricket 🏏, watching YouTube 📺 vid
 
 - 📫 You can contact me through [Email](mailto:muhammad1649programmer@gmail.com ).
 
-- 📄 Want to know about my experiences visit [Resume](https://drive.google.com/file/d/15dWYT2inftppgmQdgZecvN0Dv98z5vTI/view), [Online Resume](https://profilopeak.vercel.app/).
+- 📄 Want to know about my experiences visit [Resume](https://drive.google.com/file/d/1XsG690M7AzkJBh8x1JLGEcmU-i3IQhCF/view), [Online Resume](https://profilopeak.vercel.app/).
 
-- ⚡ Fun fact **I can recite the entire alphabet in under 10 seconds – my party trick that never fails to impress!**.
+- ⚡ Fun fact **There's no fun in facts... HEH 😏**.
 
 <h2 align="left">Let's Learn, Grow and Connect:</h2>
 <p align="left">
@@ -66,8 +64,11 @@ Talking about my hobbies, I love playing cricket 🏏, watching YouTube 📺 vid
 <a href="https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/"><img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
 <a href="https://www.overleaf.com/"><img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/></a>
 <a href="https://nodejs.org/en"><img alt="NodeJS" src="https://img.shields.io/badge/Nodejs-Nodejs?style=for-the-badge&logo=node.js&color=303030"/></a>
+<a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/></a>
+<a href="https://laravel.com/"><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/></a>
 <a href="https://www.w3schools.com/sql/"><img alt="SQL" src="https://img.shields.io/badge/sql%20-%234169E1.svg?&style=for-the-badge&logo=sql&logoColor=white"/></a>
 <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql%20-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></a>
 <a href="https://docs.flutter.dev/cookbook/persistence/sqlite"><img alt="SQFlite" src="https://img.shields.io/badge/sqflite%20-%2300BFFF.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/></a>
 <a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase&logoColor=white"/></a>
 <a href="https://reactnative.dev/"><img alt="React Native" src="https://img.shields.io/badge/react%20native%20-%2300D8FF.svg?&style=for-the-badge&logo=react&logoColor=white"/></a>
@@ -83,6 +84,7 @@ Talking about my hobbies, I love playing cricket 🏏, watching YouTube 📺 vid
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img alt='ASP.NET' src="https://img.shields.io/badge/ASPNET-ASPNET?style=for-the-badge&logo=.net&color=5C2D91"/></a>
 <a href="https://azure.microsoft.com/en-us"><img alt='Microsoft Azure' src="https://img.shields.io/badge/Microsoft%20Azure-Microsoft%20Azure?style=for-the-badge&logo=microsoft%20azure&color=303030"/></a>
 <a href="https://vercel.com/"><img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.netlify.com/"><img alt="Netlify" src="https://img.shields.io/badge/netlify-%2300C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white"/></a>
 <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-TypeScript?style=for-the-badge&logo=typescript&logoColor=fff&color=3178C6"/></a>
 <a href="https://www.figma.com/"><img alt="Figma" src="https://img.shields.io/badge/Figma-Figma?style=for-the-badge&logo=figma&logoColor=fff&color=F24E1E"/></a>
 <a href="https://www.canva.com/"><img alt="Canva" src="https://img.shields.io/badge/canva%20-%2300C4CC.svg?&style=for-the-badge&logo=canva&logoColor=white"/></a>
