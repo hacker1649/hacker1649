@@ -26,7 +26,7 @@ Talking about my hobbies, I love playing cricket 🏏, watching YouTube 📺 vid
 
 - 💬 Ask me about **C, C++, Python, SQL, MySQL | Object Oriented Programming and Database**.
 
-- 📫 You can contact me through [Email](mailto:muhammad1649programmer@gmail.com ).
+- 📫 How to reach me? You can mail me at muhammad1649programmer@gmail.com.
 
 - 📄 Want to know about my experiences visit [Resume](https://drive.google.com/file/d/1XsG690M7AzkJBh8x1JLGEcmU-i3IQhCF/view), [Online Resume](https://profilopeak.vercel.app/).
 
